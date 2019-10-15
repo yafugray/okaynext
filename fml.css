@@ -2,3 +2,8 @@ body {
     background-color: ivory;
     color: teal;
 }
+img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black    
+}
